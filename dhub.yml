@@ -8,3 +8,4 @@
     #    shell: docker image rm -f oalalif/gadja2.5.1
      - name: create new container
        shell: docker run -itd --name dockeradja5.1 oalalif/gadja2.5.1
+#
